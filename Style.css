@@ -1,0 +1,30 @@
+ * {
+     padding: 0;
+     margin: 0;
+ }
+
+
+
+ .myDiv1 {
+    height: 50px;
+    width: 50px;
+    background-color: yellowgreen;
+ }
+
+ .myDiv2 {
+    height: 50px;
+    width: 50px;
+    background-color: red;
+ }
+
+ .myDiv3 {
+    height: 50px;
+    width: 50px;
+    background-color: orange;
+ }
+
+ .myDiv4 {
+    height: 50px;
+    width: 50px;
+    background-color: blueviolet;
+ }
